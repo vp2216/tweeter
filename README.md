@@ -1,5 +1,5 @@
 # Tweeter
-This app lets the users to add images and post them online. Used firebase as backend. It is a react project and is fully responsive.
+This app lets the users to add images and post them online. Used Firebase for the backend operations like storage, database and signup. It is a react project and is fully responsive.
 
 Sign in with google
 
